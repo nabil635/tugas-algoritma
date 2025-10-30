@@ -1,1 +1,1 @@
-# tugas-algoritma
+Nabil-Alprog-C
